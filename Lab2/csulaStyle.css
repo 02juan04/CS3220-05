@@ -1,0 +1,38 @@
+tr{
+    border-bottom: 1px solid;
+}
+#header{
+    background-color: black;
+    color: white;
+    text-align: end;
+    font-size: small;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#links{
+    background-color: gold;
+    position: relative;
+    bottom: 20px;
+}
+
+#title{
+    font-size: xx-large;
+    font-weight: bold;
+    vertical-align: middle;
+    position: relative;
+    left: 50px;
+    bottom: 50px;
+
+}
+
+.subtitle{
+    font-weight: bold;
+}
+
+.indent{
+    text-indent: 20px;
+}
